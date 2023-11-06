@@ -1,7 +1,7 @@
 #include <phpcpp.h>
 
 Php::Value sayHello() {
-    return "Hello, World!";
+    return "Hello, World!\n";
 }
 
 extern "C" {
